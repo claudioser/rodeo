@@ -29,7 +29,7 @@ questions:
   label: "Container Pet"
   group: "App Configuration"
 - variable: app.localization.color
-  default: "black"
+  default: "blue"
   description: "Add some color to the mix (specify a CSS color name)"
   type: string
   label: Container Color
