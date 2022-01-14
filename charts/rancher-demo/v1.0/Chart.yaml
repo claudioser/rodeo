@@ -5,5 +5,5 @@ name: rancher-demo
 version: 2.1.4
 icon: https://rancher.com/img/brand-guidelines/assets/logos/png/color/rancher-logo-stacked-color.png
 maintainers:
-  - name: Rancher
+  - name: Application Prod v1
     url: https://github.com/rancher
