@@ -19,7 +19,7 @@ questions:
   label: Localized Title
   group: "App Configuration"
 - variable: app.localization.pets
-  default: "cows"
+  default: "chameleons"
   description: "Pick your favourite container pet!"
   type: enum
   options:
@@ -29,7 +29,7 @@ questions:
   label: "Container Pet"
   group: "App Configuration"
 - variable: app.localization.color
-  default: "black"
+  default: "green"
   description: "Add some color to the mix (specify a CSS color name)"
   type: string
   label: Container Color
